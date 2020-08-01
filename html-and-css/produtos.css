@@ -1,0 +1,70 @@
+header {
+	background: #BBBBBB;
+	padding: 20px 0;
+}
+
+.box-header {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	cursor: pointer;
+}
+
+.products {
+	width: 940px;
+	margin: 0 auto;
+	padding: 50px 0;
+
+}
+
+.products h2 {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.products li {
+	box-sizing: border-box;
+	border: 2px solid #000;
+	border-radius: 8px;
+	margin: 0 1.5%;
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	padding: 30px 20px;
+}
+.products li:hover h2{
+	font-size: 34px;
+}
+
+.product-description {
+	font-size: 18px;
+}
+
+.product-value {
+	font-size: 22px;
+	font-weight: bold;
+	margin-top: 10px;
+}
