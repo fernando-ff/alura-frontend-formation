@@ -68,3 +68,15 @@ nav a:hover {
 	font-weight: bold;
 	margin-top: 10px;
 }
+
+footer {
+	background: #000;
+	text-align: center;
+	padding: 40px 0;
+}
+
+.copyright {
+	color: #fff;
+	font-size: 13px;
+	margin: 20px 0 0 0;
+}
