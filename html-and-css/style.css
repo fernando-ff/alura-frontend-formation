@@ -138,3 +138,38 @@ td, th{
 	border: 1px solid #000;
 	padding: 8px 8px;
 }
+
+.banner {
+	width: 100%;	
+}
+
+.title-main {
+	text-align: center;
+	font-size: 2em;
+	margin: 0 0 1em;
+	clear: left;
+}
+
+.main p {
+	margin: 0 0 1em;
+}
+
+.main strong {
+	font-weight: bold;
+}
+
+.main em {
+	font-style: italic;
+}
+
+.imgbenefits{
+	width: 60%;
+}
+
+.utensils {
+	width: 120px;
+	float: left;
+	margin: 0 20px 20px 0;
+}
+.main p {
+}
