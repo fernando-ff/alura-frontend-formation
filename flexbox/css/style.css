@@ -178,10 +178,13 @@ body {
 
 .videoSobre-video {
 	max-width: 100%;
+	margin-right: 10%;
 }
 
 .videoSobre .container {
 	color: #FFF;
+	display: flex;
+	flex-direction: row;
 }
 
 .videoSobre-sobre-title {
