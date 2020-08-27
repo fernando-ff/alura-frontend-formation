@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Frontend" />
+  <img src="./assets/Screenshot_2020-08-27 Formação Front End Alura - Cursos online de tecnologia.png" alt="Frontend" />
 
   &#xa0;
 
@@ -43,6 +43,12 @@
 ## :dart: About ##
 
 Projects developmented during the front end formation on Alura Courses 
+
+## :sparkles: Projects ##
+
+:heavy_check_mark: Barbearia ALura;\
+:heavy_check_mark: Alurinha;\
+
 
 ## :rocket: Technologies ##
 

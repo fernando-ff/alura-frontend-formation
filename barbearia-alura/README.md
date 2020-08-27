@@ -1,21 +1,13 @@
 <div align="center" id="top"> 
-  <img src="./assets/logo.png" alt="Frontend" />
+  <img src="./assets/Screenshot_2020-08-27 Perfil de Fernando Ferreira(1).png" alt="Frontend" />
 
   &#xa0;
 
-  <!-- <a href="https://frontend.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">HTML5 and CSS3</h1>
+<h1 align="center">Barbearia Alura</h1>
 
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Frontend 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
 
 
 <br>
@@ -30,8 +22,9 @@ Was a great expirience for my, i'm so grateful for the Alura for did help me in 
 :heavy_check_mark: Work time;\
 :heavy_check_mark: Price table;\
 :heavy_check_mark: Building Location;\
-:heavy_check_mark: And a lot of things;\
 
+## :scroll: Certification ## 
+<img src="./assets/Screenshot_2020-08-27 Fernando Ferreira - Cursos - Alura.png">
 
 ## Inital Page ##
 <img src="./assets/Screenshot_2020-08-27 Barbearia Alura.jpg">
